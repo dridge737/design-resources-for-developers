@@ -742,3 +742,4 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 | [Commitizen](http://commitizen.github.io/cz-cli/)| Command line tool to formatted commit messages according to the standards. |
+| [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |
